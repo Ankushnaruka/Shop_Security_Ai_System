@@ -1,0 +1,26 @@
+# AI / YOLO model weights
+models/
+*.pt
+*.pth
+*.onnx
+*.weights
+*.engine
+*.tflite
+*.pb
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
